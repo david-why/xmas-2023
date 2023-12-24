@@ -1,5 +1,15 @@
 @import './base.css';
 
+a {
+  color: var(--vt-c-green);
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  word-break: keep-all;
+}
+
 /* #app {
   max-width: 1280px;
   margin: 0 auto;
